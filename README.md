@@ -35,7 +35,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JowanT&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoWanT&layout=compact&langs_count=8)
 
 ![JowanT's GitHub stats](https://github-readme-stats.vercel.app/api?username=JowanT&theme=radical&show_icons=true)
 
