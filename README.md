@@ -1,13 +1,13 @@
 ### JowanT
 
 <a href="https://twitter.com/JowanT">
-  <img align="left" alt="JowanT | Twitter" width="22px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/twitter.png" />
+  <img align="left" alt="JowanT | Twitter" width="35px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/JowanT/">
-  <img align="left" alt="JowanT LinkdeIN" width="22px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/linkedin.png" />
+  <img align="left" alt="JowanT LinkdeIN" width="35px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/JowanT/">
-  <img align="left" alt="JowanT Instagram" width="22px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/instagram.png" />
+  <img align="left" alt="JowanT Instagram" width="35px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/instagram.png" />
 </a>
 <br />
 <br />
