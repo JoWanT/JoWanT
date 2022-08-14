@@ -1,7 +1,7 @@
 ### JowanT
 
 <a href="https://twitter.com/JowanT">
-  <img align="left" alt="JowanT | Twitter" width="22px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/twitter-logo-transparent-15-2999319961.png" />
+  <img align="left" alt="JowanT | Twitter" width="22px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/JowanT/">
   <img align="left" alt="JowanT LinkdeIN" width="22px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/linkedin.png" />
