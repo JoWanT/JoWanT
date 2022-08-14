@@ -7,7 +7,7 @@
   <img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/adarshreddyash/">
-  <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/instagram.png" />
 </a>
 <br />
 <br />
