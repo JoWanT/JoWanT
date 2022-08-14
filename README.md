@@ -1,8 +1,8 @@
-<a href="https://twitter.com/JowanT">
-  <img align="left" alt="JowanT | Twitter" width="35px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/twitter.png" />
-</a>
-
 ### JowanT
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+:clock130: Joined GitHub 5 years ago
+
 
 <br />
 <a href="https://twitter.com/JowanT">
@@ -18,18 +18,7 @@
 <br />
 <br />
 
-Hi, I'm Adarshreddy, a Full Stack Developer 🚀 from India, currently, I'm a Blogger 🙍🏽‍♂️ [@GSPACE](https://glammingspace.blogspot.com), Freelancer 👨🏽‍💻, Beside's programming, I enjoy podcasts and traveling.
 
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on [Ronix](https://github.com/JowanT/ronix-frontend);
-- 🌱 I’m currently learning GraphQL ,typescript and Kubernetes;
-- 👯 I’m looking to collaborate on [Ronix](https://github.com/JowanT/ronix-frontend) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Vengixlabs:My future Project which helps in R&D for companies.
-- 📫 How to reach me: adarshreddy9849@gmail.com;
-- 📝[Resume](https://JowanT.me/assets/Adarshreddy's%20Resume.pdf)
 
 **Languages and Tools:**
 
