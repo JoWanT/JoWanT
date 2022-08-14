@@ -1,13 +1,13 @@
 ### JowanT
 
-<a href="https://twitter.com/adarshreddyash">
-  <img align="left" alt="Adarshreddyash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/JowanT">
+  <img align="left" alt="JowanT | Twitter" width="22px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/twitter-logo-transparent-15-2999319961.png" />
 </a>
-<a href="https://www.linkedin.com/in/adarshreddyash/">
-  <img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/JowanT/">
+  <img align="left" alt="JowanT LinkdeIN" width="22px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/adarshreddyash/">
-  <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/instagram.png" />
+<a href="https://www.instagram.com/JowanT/">
+  <img align="left" alt="JowanT Instagram" width="22px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/instagram.png" />
 </a>
 <br />
 <br />
@@ -16,14 +16,14 @@ Hi, I'm Adarshreddy, a Full Stack Developer 🚀 from India, currently, I'm a Bl
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Ronix](https://github.com/Adarshreddyash/ronix-frontend);
+- 👨🏽‍💻 I’m currently working on [Ronix](https://github.com/JowanT/ronix-frontend);
 - 🌱 I’m currently learning GraphQL ,typescript and Kubernetes; 
-- 👯 I’m looking to collaborate on [Ronix](https://github.com/Adarshreddyash/ronix-frontend) 🤝;
+- 👯 I’m looking to collaborate on [Ronix](https://github.com/JowanT/ronix-frontend) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Vengixlabs:My future Project which helps in R&D for companies. 
 - 📫 How to reach me: adarshreddy9849@gmail.com;
-- 📝[Resume](https://adarshreddyash.me/assets/Adarshreddy's%20Resume.pdf)
+- 📝[Resume](https://JowanT.me/assets/Adarshreddy's%20Resume.pdf)
 
 **Languages and Tools:**  
 
@@ -42,6 +42,6 @@ Hi, I'm Adarshreddy, a Full Stack Developer 🚀 from India, currently, I'm a Bl
 
 
 
-![Adarshreddy's github stats](https://github-readme-stats.vercel.app/api?username=adarshreddyash&show_icons=true&hide_border=true)
+![Adarshreddy's github stats](https://github-readme-stats.vercel.app/api?username=JowanT&show_icons=true&hide_border=true)
 
 //credits to creators
