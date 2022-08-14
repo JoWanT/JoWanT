@@ -6,7 +6,7 @@
 
 
 <br />
-<a href="https://twitter.com/JowanT">
+<a href="https://twitter.com/SulaimanJowan">
   <img align="left" alt="JowanT | Twitter" width="35px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/JowanT/">
