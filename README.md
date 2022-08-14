@@ -1,24 +1,16 @@
 ### JowanT
-<img height="35" src="https://github.com/JoWanT/JoWanT/blob/main/Git/follower1.png"> Followed by 0 users
-
-:clock130: Joined GitHub 5 years ago
-
-
-
-<br />
 <a href="https://twitter.com/SulaimanJowan">
-  <img align="left" alt="JowanT | Twitter" width="35px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/twitter.png" />
+  <img align="left" alt="JowanT | Twitter" width="25px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/JowanT/">
-  <img align="left" alt="JowanT LinkdeIN" width="35px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/linkedin.png" />
+  <img align="left" alt="JowanT LinkdeIN" width="25px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/JowanT/">
-  <img align="left" alt="JowanT Instagram" width="35px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/instagram.png" />
+  <img align="left" alt="JowanT Instagram" width="25px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/instagram.png" />
 </a>
 
 <br />
 <br />
-
 
 <b style='color:blue'>Most used Languages and Tools:</b>
 
@@ -35,7 +27,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoWanT&layout=compact&langs_count=8&theme=radical)
 
-
-![JowanT's GitHub stats](https://github-readme-stats.vercel.app/api?username=JowanT&theme=radical&show_icons=true)
+![JowanT's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoWanT&theme=radical&show_icons=true)
 
