@@ -1,9 +1,9 @@
 <a href="https://twitter.com/JowanT">
   <img align="left" alt="JowanT | Twitter" width="35px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/twitter.png" />
 </a>
-## JowanT
 
-<br />
+### JowanT
+
 <br />
 <a href="https://twitter.com/JowanT">
   <img align="left" alt="JowanT | Twitter" width="35px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/twitter.png" />
