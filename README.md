@@ -4,6 +4,7 @@
 :clock130: Joined GitHub 5 years ago
 
 
+
 <br />
 <a href="https://twitter.com/JowanT">
   <img align="left" alt="JowanT | Twitter" width="35px" src="https://github.com/JoWanT/JoWanT/blob/main/Git/twitter.png" />
@@ -19,7 +20,7 @@
 <br />
 
 
-<b style='color:red'>Most used Languages and Tools:</b>
+<b style='color:blue'>Most used Languages and Tools:</b>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -36,6 +37,5 @@
 
 
 
-![Adarshreddy's github stats](https://github-readme-stats.vercel.app/api?username=JowanT&show_icons=true&hide_border=true)
+![JowanT's GitHub stats](https://github-readme-stats.vercel.app/api?username=JowanT&theme=radical&show_icons=true)
 
-//credits to creators
